@@ -1,0 +1,27 @@
+<svg width="500" height="500" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="Group 2">
+<g id="Group">
+<path id="Rectangle" d="M 0 0L 500 0L 500 500L 0 500L 0 0Z" fill="url(#paint0_linear)"/>
+<g id="AD" transform="translate(45.6275 137.096)">
+<path d="M 88.992 0L 108.576 0L 194.4 203.904L 173.088 203.904L 150.912 149.76L 42.912 149.76L 19.872 203.904L 0 203.904L 88.992 0ZM 97.92 20.736L 50.4 132.48L 144 132.48L 97.92 20.736Z" fill="url(#paint1_angular)"/>
+<path d="M 221.06 0L 284.132 0C 301.796 0 316.772 2.208 329.06 6.624C 341.348 10.848 351.524 16.32 359.588 23.04C 367.844 29.76 374.276 37.248 378.884 45.504C 383.684 53.568 387.14 61.344 389.252 68.832C 391.556 76.32 392.996 83.136 393.572 89.28C 394.148 95.232 394.436 99.456 394.436 101.952C 394.436 104.448 394.148 108.768 393.572 114.912C 392.996 120.864 391.556 127.584 389.252 135.072C 387.14 142.56 383.684 150.432 378.884 158.688C 374.276 166.752 367.844 174.144 359.588 180.864C 351.524 187.584 341.348 193.152 329.06 197.568C 316.772 201.792 301.796 203.904 284.132 203.904L 221.06 203.904L 221.06 0ZM 240.068 186.624L 279.236 186.624C 292.676 186.624 305.252 184.992 316.964 181.728C 328.676 178.272 338.852 173.088 347.492 166.176C 356.132 159.264 362.948 150.528 367.94 139.968C 372.932 129.216 375.428 116.544 375.428 101.952C 375.428 87.36 372.932 74.784 367.94 64.224C 362.948 53.472 356.132 44.64 347.492 37.728C 338.852 30.816 328.676 25.728 316.964 22.464C 305.252 19.008 292.676 17.28 279.236 17.28L 240.068 17.28L 240.068 186.624Z" fill="url(#paint2_angular)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(446 446 -372.276 372.276 178.138 -194.138)">
+<stop stop-color="#9F32F4"/>
+<stop offset="1" stop-color="#F6B14A"/>
+</linearGradient>
+<radialGradient id="paint1_angular" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.30874 437 -845.342 -0.597234 620.198 -232.797)">
+<stop offset="0.430939" stop-color="#0ACCF6"/>
+<stop offset="1" stop-color="#F1FBFE"/>
+</radialGradient>
+<radialGradient id="paint2_angular" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.30874 437 -845.342 -0.597234 620.198 -232.797)">
+<stop offset="0.430939" stop-color="#0ACCF6"/>
+<stop offset="1" stop-color="#F1FBFE"/>
+</radialGradient>
+</defs>
+</svg>

@@ -8,7 +8,9 @@ export default function () {
         <div className='front-page'>
             <h1>{texts.newspaper}</h1>
             <div className='front-page-news'>
-                <MainArticle />
+                <div className='main-article'>
+                    <MainArticle />
+                </div>
                 <div className='side-articles'>
                     <Article />
                     <Article />
@@ -16,6 +18,9 @@ export default function () {
                 <div className='bottom-articles'>
                     <Article />
                     <Article />
+                </div>
+                <div className='ads'>
+                    <img className='front-page-ad' src='Assets/news_ad.svg' alt='Fake advertisements' />
                 </div>
             </div>
         </div>
