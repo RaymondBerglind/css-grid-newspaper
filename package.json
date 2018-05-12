@@ -2,7 +2,7 @@
   "name": "css-grid-newspaper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://raymondberglind.github.io/css-grid-playground",
+  "homepage": "https://raymondberglind.github.io/css-grid-newspaper",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.2",
